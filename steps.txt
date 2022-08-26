@@ -1,4 +1,4 @@
-1. Download VScode
+1.Download VScode
 2.Download  Node.JS
 Restore the GitHUb account
 Search the  code 
